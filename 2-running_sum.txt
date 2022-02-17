@@ -1,0 +1,5 @@
+Program start
+enter positive num (0 or a negative number to stop)
+sum = 0
+while number is greater than 0, add sum + number
+print number 

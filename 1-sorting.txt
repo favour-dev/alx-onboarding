@@ -1,0 +1,8 @@
+Program start
+initialise variable A =  integer
+Initialise variable B = integer
+Initialise variable C = integer
+if A is greater than C and A is greater than B and B is Greater than C 
+Print A B C
+ELSE
+Print C B A.
