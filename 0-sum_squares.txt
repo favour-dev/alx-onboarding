@@ -1,0 +1,6 @@
+Program start
+initialise variable A =  integer
+Initialise variable B = integer
+Find the square of Variable A and B.
+Sum A and B together and store in C
+display C. 
